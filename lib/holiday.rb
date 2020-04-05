@@ -74,7 +74,7 @@ holiday_hash.each do |season, holiday|
  puts holiday
 
   binding.pry
-end 
+end
 end
 
 end
