@@ -28,7 +28,7 @@ def add_supply_to_winter_holidays(holiday_hash, supply)
   holiday_hash.each do |season, holiday|
     holiday << supply
   end
-
+binding.pry
 end
 
 
